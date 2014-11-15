@@ -1,0 +1,7 @@
+body{background-color:white;}
+#menu ul{list-style-type:none;margin-left:5px;margin-top:10px;}
+#menu li{float:left;margin-left:40px;width:250px;height:30px;margin-top:25px;}
+#menu a{text-decoration:none;background-color:#847F7B;color:white;text-align:center;display:block;padding:10px;margin-top:10px}
+#menu a:hover{background-color:orange}
+#our li a{background-color:red;width:190px;margin-left:20px}
+#mybcit li{width:150px;height:60px}
